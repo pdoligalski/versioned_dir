@@ -1,3 +1,5 @@
 Don't use git on shared folders (like Dropbox). Git files get corrupted when they are modified by at the same time by different users or when they are modified from computers with different versions of git. 
 
 Get github academic account, it should allow for unlimited private repos.
+
+Why git mv, git rm, not a normal mv, rm?
